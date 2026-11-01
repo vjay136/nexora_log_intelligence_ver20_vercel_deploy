@@ -3,7 +3,7 @@
 This repository contains only the Vite WebApp and its same-origin Vercel API proxy. It excludes the controller/client source, RPM build inputs, Supabase schema, browser tests, and local operator scripts.
 
 This deployment mirror was generated from Nexora Log Intelligence `20.0.0-6`,
-source revision `a1e1ee93abd6bde3a9bf124550854c3df58e02ec`.
+source revision `4f18ecb3b75e7fa7bcf810cbe34e675b4886142d`.
 
 ## Deploy on Vercel
 
