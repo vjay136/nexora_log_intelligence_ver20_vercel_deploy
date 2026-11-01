@@ -2,7 +2,7 @@
 
 This repository contains the Vercel/Cloudflare deployment source generated
 from Nexora Log Intelligence `20.0.0-4`, source revision
-`d6dd21d54d7f9a149419df3d107df53a53bd9e3a`.
+`08b03bfe186bc8a71780c25145fcfc0624e0ad2a`.
 
 Configure `NLI_CONTROLLER_ORIGIN` as the public HTTPS controller origin. The
 browser uses the same-origin `/api/v1` proxy; controller credentials and raw
